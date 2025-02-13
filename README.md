@@ -1,1 +1,2 @@
 # OndrejKozak01.github.io
+https://identity.alza.cz/Account/Login?ReturnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Facr_values%3Dcountry%253ACZ%2520regLink%253AProduction_registration%2520source%253AWeb%26client_id%3Dalza%26culture%3Dcs-CZ%26nonce%3Drandom_nonce%26redirect_uri%3Dhttps%253A%252F%252Fwww.alza.cz%252Fexternal%252Fcallback%253Fnav%253DLw%26response_mode%3Dform_post%26response_type%3Dcode%2520id_token%26scope%3Demail%2520openid%2520profile%2520alza%2520offline_access%26state%3D0300f939-71c4-4a8a-b99d-add64e2cc4b9
